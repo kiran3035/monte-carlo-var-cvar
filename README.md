@@ -70,7 +70,7 @@ Exact values depend on the download date and market window.
 
 - VaR and CVaR are reported as **percentage returns** (negative = loss).
 - Returns are not perfectly normal (fat tails); historical CVaR often exceeds Monte Carlo CVaR.
-- Internet access is required for live price downloads.
+
 
 ## License
 
